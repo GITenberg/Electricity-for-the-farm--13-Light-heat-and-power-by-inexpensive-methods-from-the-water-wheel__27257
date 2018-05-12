@@ -1,0 +1,28 @@
+_repo: Electricity-for-the-farm--13-Light-heat-and-power-by-inexpensive-methods-from-the-water-wheel__27257
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anderson, Frederick Irving
+    birthdate: 1877
+    deathdate: 1947
+    gutenberg_agent_id: '32575'
+    url: http://www.gutenberg.org/2009/agents/32575
+description: ''
+gutenberg_issued: '2008-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27257'
+  lccn: '15007831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electricity in agriculture'
+- !lcc 'TK'
+title: "Electricity for the farm\r\nLight, heat and power by inexpensive methods from\
+  \ the water wheel or farm engine"
+url: http://www.gutenberg.org/ebooks/27257
