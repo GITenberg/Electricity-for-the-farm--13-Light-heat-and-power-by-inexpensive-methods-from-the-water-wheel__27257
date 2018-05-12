@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32575'
     url: http://www.gutenberg.org/2009/agents/32575
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27257#Electricity-for-the-farm--13-Light-heat-and-power-by-inexpensive-methods-from-the-water-wheel_
 gutenberg_issued: '2008-11-14'
 gutenberg_type: Text
 identifiers:
